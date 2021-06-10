@@ -1,36 +1,38 @@
 <h2>Hello! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amit-singh-rathore.amit-singh-rathore)](https://github.com/amit-singh-rathore) [![GitHub followers](https://img.shields.io/github/followers/amit-singh-rathore.svg?style=social&label=Follow)](https://github.com/amit-singh-rathore?tab=followers)
+I'm Amit Kumar! I am a data enthuiast. I build applcations & platform which are centered around data. I have completed PGBDE from Birla Institue of Science & Technology, Pilani. I also have completed Advanced ML certification form IIT Madras. I generally work with Python, PySpark, AWS Cloud and MySQL. 
 
-I'm Amit Kumar! 
-- <i>Currently:</i> Senior Data Engineer @ LogmeIn. 
+<h2>Role I have played.</h2>
 
-<h2>Past Experience</h2>
+Senior Data Engineer @ __LogmeIn__ |Senior Application Developer @ __DBS Bank__ | Senior Cloud Engineer @ __Pegasystem__ |  System Engineer @ __TCS__ 
 
-Senior Application Developer @ __DBS Bank__ | Senior Cloud Engineer @ __Pegasystem__ |  System Engineer @ __TCS__ 
+<h2>📫 How to reach me:</h2>
 
+<a href="mailto:asrece.86@gmail.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/amit-singh-rathore/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://asrathore08.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
-Check out my GitHub repository:
+<h2> Check out some of my works </h2>
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/100MLProjects">
+    <a href="https://github.com/amit-singh-rathore/plagiarism-detection-work">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amit-singh-rathore&repo=plagiarism-detection-work&show_owner=True" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/AndroidApps">
+    <a href="https://github.com/amit-singh-rathore/sentiment-analysis-work">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amit-singh-rathore&repo=sentiment-analysis-work&show_owner=True" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/AndroidApps">
+    <a href="https://github.com/amit-singh-rathore/malware-detection">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amit-singh-rathore&repo=malware-detection&show_owner=True" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/AndroidApps">
+    <a href="https://github.com/amit-singh-rathore/customer-churn-prediction">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amit-singh-rathore&repo=customer-churn-prediction&show_owner=True" alt="GitHub Stats" />
     </a>
   </p>
 </div>
 <div>
   <p align="center">
-  <b><em>Medium Blogs:</em></b> <br/>
+  <b><em>Some of my medium Blogs:</em></b> <br/>
     <img src="https://github-readme-medium-card.vercel.app/getMediumBlogs?username=asrathore08&theme=dracula" alt="Medium Blogs" /> <br/><br/>
 </div>
 
@@ -45,15 +47,5 @@ Check out my GitHub repository:
   </p>
 </div>
 
-<h2> About Amit Kumar⚡:</h2>
 
-Data | ML | Cloud Engineer.
- 
-- Check out my Blog: [Medium](https://asrathore08.medium.com/)
-- Write to me: [MailTo](mailto:asrece.86@gmail.com)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:asrece.86@gmail.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/amit-singh-rathore/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://asrathore08.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amit-singh-rathore.amit-singh-rathore)](https://github.com/amit-singh-rathore) [![GitHub followers](https://img.shields.io/github/followers/amit-singh-rathore.svg?style=social&label=Follow)](https://github.com/amit-singh-rathore?tab=followers)
