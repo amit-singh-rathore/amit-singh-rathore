@@ -28,6 +28,11 @@ Check out my GitHub repository:
     </a>
   </p>
 </div>
+<div>
+  <p align="center">
+  <b><em>Medium Blogs:</em></b> <br/>
+    <img src="https://github-readme-medium-card.vercel.app/getMediumBlogs?username=asrathore08&theme=dracula" alt="Medium Blogs" /> <br/><br/>
+</div>
 
 <h2>👀 Stats</h2>
 
