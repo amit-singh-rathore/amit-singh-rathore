@@ -3,17 +3,11 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=amit-singh-rathore.amit-singh-rathore)](https://github.com/amit-singh-rathore) [![GitHub followers](https://img.shields.io/github/followers/amit-singh-rathore.svg?style=social&label=Follow)](https://github.com/amit-singh-rathore?tab=followers)
 
 I'm Amit Kumar! 
-- <i>Currently:</i> Data Engineer @ LogmeIn. 
+- <i>Currently:</i> Senior Data Engineer @ LogmeIn. 
 
 <h2>Past Experience</h2>
 
-__LogmeIn__ | Senior Data Engineer
-
-__DBS Bank__ | Senior Application Developer
-
-__Pegasystem__ | Senior Cloud Engineer
-
-__TCS__ |  System Engineer
+Senior Application Developer @ __DBS Bank__ | Senior Cloud Engineer @ __Pegasystem__ |  System Engineer @ __TCS__ 
 
 
 Check out my GitHub repository:
