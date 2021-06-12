@@ -8,7 +8,8 @@ Senior Data Engineer @ __LogmeIn__ | Specialist Application Developer @ __DBS Ba
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:asrece.86@gmail.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="amitsinghrathore.in">![Website](https://img.shields.io/badge/Website-E95420?style=for-the-badge&logo=Google-chrome&logoColor=white)</a> 
+<a href="mailto:asrece.86@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/amit-singh-rathore/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://asrathore08.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://www.quora.com/profile/Amit-Singh-Rathore">![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)</a>
