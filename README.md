@@ -2,17 +2,18 @@
 
 I'm Amit Kumar! I am a data enthuiast. I build applcations & platform which are centered around data. I have completed PGBDE from Birla Institue of Science & Technology, Pilani. I also have completed Advanced ML certification form IIT Madras. I generally work with Python, PySpark, AWS Cloud and MySQL. 
 
-<h2>Role I have played.</h2>
+<h2>Roles I have played.</h2>
 
-Senior Data Engineer @ __LogmeIn__ |Senior Application Developer @ __DBS Bank__ | Senior Cloud Engineer @ __Pegasystem__ |  System Engineer @ __TCS__ 
+Senior Data Engineer @ __LogmeIn__ | Specialist Application Developer @ __DBS Bank__ | Senior Cloud Engineer @ __Pegasystem__ | System Engineer @ __TCS__ 
 
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:asrece.86@gmail.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/amit-singh-rathore/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://asrathore08.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.quora.com/profile/Amit-Singh-Rathore">![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)</a>
 
-<h2> Check out some of my works </h2>
+<h2> Check out some of my work </h2>
 
 <div>
   <p>
@@ -36,7 +37,7 @@ Senior Data Engineer @ __LogmeIn__ |Senior Application Developer @ __DBS Bank__ 
     <img src="https://github-readme-medium-card.vercel.app/getMediumBlogs?username=asrathore08&theme=dracula" alt="Medium Blogs" /> <br/><br/>
 </div>
 
-<h2>👀 Stats</h2>
+<h2>👀 Git Stats</h2>
 
 <div>  
   <p align="center">
