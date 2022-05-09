@@ -1,6 +1,6 @@
 <h2>Hello! 👋</h2>
 
-I'm Amit Kumar! I am a data enthuiast. I build applcations & platform which are centered around data. I have completed PGBDE from Birla Institue of Science & Technology, Pilani. I also have completed Advanced ML certification form IIT Madras. I generally work with Python, PySpark, AWS Cloud and MySQL. 
+I'm Amit Kumar! I am a data enthuiast. I build applcations & platform which are centered around data. I have completed PGBDE from Birla Institue of Science & Technology, Pilani. I also have completed Advanced ML certification form IIT Madras. I generally work with Python, PySpark, AWS Cloud, MySQL, Hive, Snowflake & Databricks. 
 
 <h2>Roles I have played.</h2>
 
